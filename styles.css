@@ -1,0 +1,80 @@
+
+h1{  
+
+text-align: center;
+font-size:35px;
+padding:20px;
+color:white;
+background-image: url("https://i.pinimg.com/originals/ea/53/50/ea53502f7b5062d184b87d44ebfea1f2.gif");
+
+
+}
+
+
+*{
+
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+font-family: sans-serif;
+
+
+}
+
+
+
+.container{
+
+max-width: 420px;
+
+    margin: 0 auto;
+background-image: url("https://i.pinimg.com/originals/ea/53/50/ea53502f7b5062d184b87d44ebfea1f2.gif");
+
+height: 100vh;
+max-height:745px;
+display:felx;
+flex-direction: column;
+
+justify-content: space-between;
+box-shadow: 5px 5px 5px black;
+border:5px solid black
+
+}
+
+#result{
+
+
+
+}
+
+
+
+#group-geek{
+
+display:flex;
+width:100%;
+}
+
+#group-geek > button > img{
+
+width:100%;
+
+}
+
+.magic-text{
+
+font-size: 26px;
+text-align: center;
+padding: 20px;
+color:white;
+
+
+}
+
+
+footer{
+
+text-align: center;
+padding: 10px;
+color:white;
+}
